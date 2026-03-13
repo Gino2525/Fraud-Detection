@@ -182,7 +182,7 @@ However, **document-specific validation rules are not yet fully implemented**. F
 * Validating other structured fields like **Name, DOB, and address format**.
 * Applying **document-specific OCR rules depending on the detected ID type**.
 
-These enhancements would make the OCR analysis more accurate and reduce false anomaly detections.
+
 
 
 
