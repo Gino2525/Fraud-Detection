@@ -182,6 +182,3 @@ However, **document-specific validation rules are not yet fully implemented**. F
 * Validating other structured fields like **Name, DOB, and address format**.
 * Applying **document-specific OCR rules depending on the detected ID type**.
 
-
-
-Developed as part of a coding task for **ID document forgery detection using computer vision and OCR analysis**.
