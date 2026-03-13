@@ -184,7 +184,4 @@ However, **document-specific validation rules are not yet fully implemented**. F
 
 
 
-
-
-
 Developed as part of a coding task for **ID document forgery detection using computer vision and OCR analysis**.
