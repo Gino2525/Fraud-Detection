@@ -1,7 +1,7 @@
 # ID Document Forgery Detection Prototype
 
-This project is a **prototype system that analyzes an uploaded ID document image and produces a forgery risk report**.
-The goal is not perfect fraud detection but to demonstrate:
+This project is a **prototype system that analyzes an uploaded ID document image and produces a forgery risk report.
+
 
 * Problem understanding
 * Image tampering detection
