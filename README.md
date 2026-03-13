@@ -101,12 +101,6 @@ cd Fraud-Detection
 ## 2. Install dependencies
 
 ```
-pip install -r requirements.txt
-```
-
-If `requirements.txt` does not exist:
-
-```
 pip install fastapi uvicorn opencv-python numpy pillow pytesseract
 ```
 
